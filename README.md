@@ -77,6 +77,8 @@ Cross-check the key here and on the trust page: [https://trust.prohormonepro.com
 
 ---
 
-## License
+## Licensing
 
-MIT — see [`LICENSE`](./LICENSE).
+- **Code (site + verify scripts):** MIT — see [`LICENSE`](./LICENSE)
+- **Release artifacts (ZIP/TAR.GZ contents):** All rights reserved — see [`LICENSE-ARTIFACTS.txt`](./LICENSE-ARTIFACTS.txt)
+- **Brand/marks:** see [`TRADEMARKS.md`](./TRADEMARKS.md)
