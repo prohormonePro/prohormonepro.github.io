@@ -24,6 +24,8 @@ Artifacts ship with detached signatures:
 - `Public_release.zip` + `Public_release.zip.sig`  
 - `Public_release.tar.gz` + `Public_release.tar.gz.sig`
 
+Latest releases: [GitHub Releases](https://github.com/prohormonePro/prohormonepro.github.io/releases)
+
 ---
 
 ## How to verify (quick)
