@@ -1,0 +1,28 @@
+License for Release Artifacts
+Copyright (c) 2025 prohormonePro. All rights reserved.
+
+SCOPE
+- “Artifacts” means the contents of the Public_release/ folder and any packaged archives
+  (e.g., Public_release.zip, Public_release.tar.gz) and files therein (checksums, data, images, etc.).
+- This license does NOT apply to the site or verification scripts that are separately
+  licensed under MIT (see LICENSE).
+
+PERMITTED
+- You may download and locally verify the Artifacts for personal evaluation.
+- You may share the detached signature files (.sig) unmodified solely to facilitate verification.
+
+NOT PERMITTED (WITHOUT PRIOR WRITTEN PERMISSION)
+- Redistribution, repackaging, hosting, mirroring, or sublicensing of the Artifacts.
+- Modification or creation of derivative works from the Artifacts.
+- Any commercial use of the Artifacts.
+
+TRADEMARKS
+- This license does not grant rights to use the prohormonePro name, logo, or other marks.
+  No endorsement or affiliation is implied. See TRADEMARKS.md.
+
+NO WARRANTY
+- The Artifacts are provided “AS IS”, without warranties or conditions of any kind.
+  Use at your own risk.
+
+CONTACT
+- For licensing or partnership inquiries, request permission from the copyright holder.
